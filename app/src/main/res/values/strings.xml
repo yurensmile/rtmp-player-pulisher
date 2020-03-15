@@ -1,0 +1,16 @@
+<resources>
+<string name="app_name">My Application</string>
+<string name="version">Version: %1$s</string>
+
+<string name="start_player">Start player</string>
+<string name="stop_player">Stop player</string>
+
+<string name="hint_rtmp_push">rtmp://yourip:1935/address</string>
+<string name="hint_rtmp_pull">rtmp://yourip:1935/address</string>
+<string name="start_button">Start stream</string>
+<string name="stop_button">Stop stream</string>
+<string name="switch_camera_button">Switch camera</string>
+
+
+
+</resources>
