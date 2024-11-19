@@ -6,6 +6,9 @@
 ### app界面展示
 <img src="https://i.loli.net/2020/03/15/ZvecDP5qYgHwaTi.png" width="200" height="360"/>
 
-<a href='https://troll-face.com'>troll face</a>
+<a href='https://troll-face.com'>更多请点击</a>
 
-<a href='https://link.zhihu.com/?target=https%3A%2F%2Ftroll-face.com'>troll face</a>
+<a href='https://link.zhihu.com/?target=https%3A%2F%2Ftroll-face.com'>更多请点击</a>
+
+<a href='https://www.qiuyumi.com/whois/?domain=troll-face.com'>更多请点击</a>
+
